@@ -1,0 +1,8 @@
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\bin\Debug\LinearSearch!.exe.config
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\bin\Debug\LinearSearch!.exe
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\bin\Debug\LinearSearch!.pdb
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\obj\Debug\LinearSearch!.csproj.AssemblyReference.cache
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\obj\Debug\LinearSearch!.csproj.SuggestedBindingRedirects.cache
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\obj\Debug\LinearSearch!.csproj.CoreCompileInputs.cache
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\obj\Debug\LinearSearch!.exe
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\LinearSearch!\LinearSearch!\obj\Debug\LinearSearch!.pdb
